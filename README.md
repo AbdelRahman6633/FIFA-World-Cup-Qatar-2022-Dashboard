@@ -3,6 +3,7 @@ Power BI Dashboard for FIFA World Cup Qatar 2022 analysis and visualizations
 
 
 تحليل تفاعلي شامل لبيانات كأس العالم 2022 في قطر باستخدام **Power BI**.
+![](home_page.png)
 ![](dashboard.png)
 
 ## المميزات الرئيسية
@@ -15,13 +16,25 @@ Power BI Dashboard for FIFA World Cup Qatar 2022 analysis and visualizations
 
 ## الـ Visuals اللي موجودة في الداشبورد
 - Column charts للأهداف + الأسيست
-- Area charts للتاكلز والظهور
-- Pie chart لتوزيع الإنترسبت حسب المركز (FW, MF, DF)
-- line أكثر المشاركات في المباريات
-- Column charts الدريبلينج
-- Gauge لمتوسط العمر
-- Slicer لاختيار اللاعبين
+![](Goals_and_Assists.png)
 
+- Area charts للتاكلز والظهور
+![](appearances.png)
+
+- Pie chart لتوزيع الإنترسبت حسب المركز (FW, MF, DF)
+![](positions.png)
+
+- line أكثر المشاركات في المباريات
+![](Tackles.png)
+
+- Column charts الدريبلينج
+![](Dribbling.png)
+
+- Gauge لمتوسط العمر
+![](Average_age.png)
+
+- Slicer لاختيار اللاعبين
+![](Slicer.png)
 ## البيانات المستخدمة
 - مصدر البيانات: FIFA World Cup 2022 datasets من Kaggle   
 
