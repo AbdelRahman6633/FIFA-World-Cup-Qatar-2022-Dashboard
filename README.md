@@ -18,20 +18,26 @@ Power BI Dashboard for FIFA World Cup Qatar 2022 analysis and visualizations
 - Column charts للأهداف + الأسيست
 ![](Goals_and_Assists.png)
 
+
 - Area charts للتاكلز والظهور
 ![](appearances.png)
+
 
 - Pie chart لتوزيع الإنترسبت حسب المركز (FW, MF, DF)
 ![](positions.png)
 
+
 - line أكثر المشاركات في المباريات
 ![](Tackles.png)
+
 
 - Column charts الدريبلينج
 ![](Dribbling.png)
 
+
 - Gauge لمتوسط العمر
 ![](Average_age.png)
+
 
 - Slicer لاختيار اللاعبين
 ![](Slicer.png)
