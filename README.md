@@ -3,6 +3,7 @@ Power BI Dashboard for FIFA World Cup Qatar 2022 analysis and visualizations
 
 
 تحليل تفاعلي شامل لبيانات كأس العالم 2022 في قطر باستخدام **Power BI**.
+![](dashboard.png)
 
 ## المميزات الرئيسية
 - **أهداف وأسيست** لأبرز اللاعبين (مثل ميسي، جوليان ألفاريز، دي ماريا...)
@@ -23,7 +24,7 @@ Power BI Dashboard for FIFA World Cup Qatar 2022 analysis and visualizations
 
 ## البيانات المستخدمة
 - مصدر البيانات: FIFA World Cup 2022 datasets من Kaggle   
-)
+
 - تم تنظيف وتحويل البيانات باستخدام **Power Query**
 - حسابات DAX للـ measures (مثل Avg Age, Duels Won per player, Dribbling per 90 min...)
 
